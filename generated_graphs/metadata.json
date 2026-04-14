@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-04-12T08:24:56.987141",
+  "num_records": 1000,
+  "dynamodb_count": 510,
+  "s3_stolen_count": 510,
+  "cloudwatch_count": 0,
+  "cloudtrail_count": 50,
+  "completeness": {
+    "dynamodb": 51.0,
+    "s3_processed": 1.0,
+    "s3_stolen": 51.0,
+    "cloudwatch": 0.0,
+    "cloudtrail": 33.33333333333333
+  }
+}

@@ -1,0 +1,3 @@
+"=== ATTACK 2: DATA EXFILTRATION EVIDENCE ===" 
+"" 
+"--- Lambda Logs (EXFIL_COPY entries) ---" 
